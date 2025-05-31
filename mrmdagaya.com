@@ -1,5 +1,4 @@
-# mrm-dagaya
-youtube facebook titok
+
 <!DOCTYPE html>
 <html lang="si">
 <head>
